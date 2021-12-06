@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Missing Requirements
+ Currency Conversion and details preview on submit
+
 ## Available Scripts
 
 In the project directory, you can run:
